@@ -1,1 +1,3 @@
-#This is a test file.
+#This is a test for git_bash.
+
+#This is a test for git_gui.
